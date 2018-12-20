@@ -2,6 +2,7 @@
   "name": "dynamic-modals-react-portals",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alvaro07.github.io/dynamic-modals-react-portals",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
