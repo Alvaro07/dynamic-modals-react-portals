@@ -21,11 +21,14 @@
 		margin: 0 35px 15px 0;
 		border-bottom: 1px solid var(--lightGray);
 		color: var(--darkGray);
+		font-size: 24px;
+		font-weight: 700;
 	}
 	
 	&__container {
-		background: white;
+		background-color: white;
 		width: 80vw;
+		max-width: 750px;
 		border-radius: 3px;
 		padding: 30px;
 		position: relative;
