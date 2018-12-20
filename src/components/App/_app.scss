@@ -1,0 +1,28 @@
+/**
+ * App styles
+ */
+
+
+.page-wrap {
+	height: 100%;
+	width: 100%; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+.main-box {
+	padding: 20px;
+	
+	&__title {
+		text-align: center;
+		margin-bottom: 40px;
+		font-size: 56px;
+		font-weight: 800;
+		color: var(--blue);
+		text-shadow: 1px 1px white;
+		line-height: 0.8;
+
+	}
+}

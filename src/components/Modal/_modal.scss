@@ -1,0 +1,49 @@
+
+/* Modal component */
+
+.c-modal {
+	position:absolute;
+	height: 100vh;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(#333, .4);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	&--close {
+		display: none;
+	}
+	
+	&__title {
+		padding-bottom:15px;
+		margin: 0 35px 15px 0;
+		border-bottom: 1px solid var(--lightGray);
+		color: var(--darkGray);
+	}
+	
+	&__container {
+		background: white;
+		width: 80vw;
+		border-radius: 3px;
+		padding: 30px;
+		position: relative;
+		border: 2px solid var(--darkGray);
+		box-shadow: 6px 6px 15px 1px rgba(#3C4856, .3);
+	}
+	
+	&__button-close {
+		position: absolute;
+		top: 15px; 
+		right: 18px;
+		color: var(--darkGray);
+		transition: .3s all ease;
+		font-size: 32px;
+		cursor: pointer;
+		
+		&:hover {
+			color: var(--blueGray);
+		}
+	}
+}

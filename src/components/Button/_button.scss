@@ -1,0 +1,31 @@
+
+.button-wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.c-button {
+	padding: 15px 40px;
+	border: none;
+	background-color: white;
+	border: 2px solid var(--darkGray);
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	border-radius: 2px;
+	color: var(--darkGray);
+	cursor: pointer;
+	font-size: 16px;
+	transition: .3s all ease;
+	
+	&:first-child {
+		margin-bottom: 20px;
+	}
+	
+	&:hover {
+		background-color: var(--darkGray);
+		color: white;
+	}
+}
+
