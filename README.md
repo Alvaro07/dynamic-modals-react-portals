@@ -1,5 +1,5 @@
 # dynamic-modals-react-portals
-Modal Component with react, developed with portals
+Modal Component, developed with react and portals
 
 
 Link: [alvaro07.github.io/dynamic-modals-react-portals](https://alvaro07.github.io/dynamic-modals-react-portals/)
