@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dynamic-modals-react-portals/precache-manifest.153f206ad7f32b25987b92c810ef76a7.js"
+  "/modal-component-react/precache-manifest.9dbccb08732851f0583631767e221991.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dynamic-modals-react-portals/index.html", {
+workbox.routing.registerNavigationRoute("/modal-component-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

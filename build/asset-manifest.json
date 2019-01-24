@@ -1,13 +1,13 @@
 {
-  "main.css": "/dynamic-modals-react-portals/static/css/main.65e73029.chunk.css",
-  "main.js": "/dynamic-modals-react-portals/static/js/main.933f6c79.chunk.js",
-  "main.js.map": "/dynamic-modals-react-portals/static/js/main.933f6c79.chunk.js.map",
-  "static/js/1.a33d9a46.chunk.js": "/dynamic-modals-react-portals/static/js/1.a33d9a46.chunk.js",
-  "static/js/1.a33d9a46.chunk.js.map": "/dynamic-modals-react-portals/static/js/1.a33d9a46.chunk.js.map",
-  "runtime~main.js": "/dynamic-modals-react-portals/static/js/runtime~main.4717e03f.js",
-  "runtime~main.js.map": "/dynamic-modals-react-portals/static/js/runtime~main.4717e03f.js.map",
-  "static/css/main.65e73029.chunk.css.map": "/dynamic-modals-react-portals/static/css/main.65e73029.chunk.css.map",
-  "index.html": "/dynamic-modals-react-portals/index.html",
-  "precache-manifest.153f206ad7f32b25987b92c810ef76a7.js": "/dynamic-modals-react-portals/precache-manifest.153f206ad7f32b25987b92c810ef76a7.js",
-  "service-worker.js": "/dynamic-modals-react-portals/service-worker.js"
+  "main.css": "/modal-component-react/static/css/main.d276857d.chunk.css",
+  "main.js": "/modal-component-react/static/js/main.9e1778bc.chunk.js",
+  "main.js.map": "/modal-component-react/static/js/main.9e1778bc.chunk.js.map",
+  "static/js/1.a33d9a46.chunk.js": "/modal-component-react/static/js/1.a33d9a46.chunk.js",
+  "static/js/1.a33d9a46.chunk.js.map": "/modal-component-react/static/js/1.a33d9a46.chunk.js.map",
+  "runtime~main.js": "/modal-component-react/static/js/runtime~main.8a49fbff.js",
+  "runtime~main.js.map": "/modal-component-react/static/js/runtime~main.8a49fbff.js.map",
+  "static/css/main.d276857d.chunk.css.map": "/modal-component-react/static/css/main.d276857d.chunk.css.map",
+  "index.html": "/modal-component-react/index.html",
+  "precache-manifest.9dbccb08732851f0583631767e221991.js": "/modal-component-react/precache-manifest.9dbccb08732851f0583631767e221991.js",
+  "service-worker.js": "/modal-component-react/service-worker.js"
 }

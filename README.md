@@ -2,7 +2,7 @@
 Modal Component, developed with React and portals
 
 
-Link: [alvaro07.github.io/modal-component-reacts](https://alvaro07.github.io/modal-component-react/)
+Link: [alvaro07.github.io/modal-component-react](https://alvaro07.github.io/modal-component-react/)
 
 ---
 
